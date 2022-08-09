@@ -39,24 +39,24 @@ export default function () {
             <motion.div className='grid grid-cols-3 xl:grid-cols-2 md:grid-cols-1 ' animate={animation}>
                 <Card
                     img={RestaurantWebsite}
-                    href='https://eclectic-custard-d540e6.netlify.app/'
+                    href='https://hubzone.netlify.app'
                     href2='https://github.com/Paddyislw/HubZone'
                     name='Restaurant Website'
                 />
                 <Card
                     img={education}
-                    href='https://mellifluous-paletas-de199d.netlify.app/'
+                    href='https://educationplatform.netlify.app'
                     href2='https://github.com/Paddyislw/Eductaion-Platform-Website'
                     name='Education Platform Website'
                 />
                 <Card img={reddit}
-                    href='https://delightful-douhua-b27cff.netlify.app/'
+                    href='https://forreddit.netlify.app'
                     href2='https://github.com/P-NBLT/reddit-clone'
                     name='Reddit Clone'
                 />
                 <Card img={portfolio}
-                    href='https://eclectic-custard-d540e6.netlify.app/'
-                    href2='https://github.com/Paddyislw/HubZone'
+                    href='https://codewithpradyum.netlify.app'
+                    href2='https://github.com/Paddyislw/portfolio-website'
                     name='Portfolio Website'
                 />
             </motion.div>
