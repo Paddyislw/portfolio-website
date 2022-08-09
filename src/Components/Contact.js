@@ -8,13 +8,9 @@ export default function Contact() {
                     <hr className='border-1 border-[#00c66c] w-9 mr-2 rounded-xl' />
                     <p className='text-xl lg:text-lg'>Contact me</p>
                 </div>
-                <p className='text-3xl font-semibold text-white lg:text-xl'>Contact with me</p>
-                <div className='text-[#808cac] space-y-1 mt-6 mb-4'>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet culpa nobis corporis</p>
-                    <p>illo voluptatum! Dolores fuga mollitia atque, placeat minima quibusdam accusantium!</p>
-                    <p>Veniam, non distinctio dolorem rerum laboriosam deleniti.</p>
-                </div>
-                <div className='space-y-3 pt-4'>
+                <p className='text-3xl font-semibold text-white lg:text-xl pb-10'>Contact with me</p>
+                
+                <div className='space-y-3 pt-4 pb-10'>
                     <div className='flex space-x-4'>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
                             <path fill="none" d="M0 0h24v24H0z" />

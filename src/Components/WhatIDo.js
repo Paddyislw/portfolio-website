@@ -35,10 +35,10 @@ export default function WhatIDo() {
                 <p className='text-white text-3xl font-semibold xl:text-2xl'>Better Design,</p>
                 <p className='text-white text-3xl font-semibold xl:text-2xl'>Better Experience</p>
                 <div className='text-[#808cac] space-y-1 mt-4'>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet culpa nobis corporis</p>
-                    <p>officiis, numquam cupiditate, enim expedita eveniet dolorum, aliquid nesciunt sapiente</p>
-                    <p>illo voluptatum! Dolores fuga mollitia atque, placeat minima quibusdam accusantium!</p>
-                    <p>Veniam, non distinctio dolorem rerum laboriosam deleniti.</p>
+                    <p>I'm react developer who looks forward to become a full stack developer </p>
+                    <p>There are some technologies that i know such as Html,Css,Javascript,</p>
+                    <p>React,Redux,Tailwind and git for version controlling.</p>
+                    <p>Used problem-solving aptitude to enhance application performance by 14%</p>
                 </div>
             </div>
         </div>

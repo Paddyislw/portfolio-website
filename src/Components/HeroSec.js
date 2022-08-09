@@ -12,8 +12,8 @@ export default function HeroSec() {
             </div>
             <p className='text-white text-5xl font-semibold pt-1 pb-3 xl:text-4xl'>I'm <span>Pradyum Singh</span></p>
             <p className='text-lg xl:text-base text-[#808cac] pb-4'>React Developer</p>
-            <p className='text-lg xl:text-base text-[#808cac]'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit rem sint ipsa cumque.</p>
-            <p className='text-lg xl:text-base text-[#808cac]'>Atque rem vel iusto impedit omnis quos!</p>
+            <p className='text-lg xl:text-base text-[#808cac]'>I am passionate about taking risks and solving them by Communicating & Sharing</p>
+            <p className='text-lg xl:text-base text-[#808cac]'>experience and knowledge</p>
             <button className='w-32 border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 mt-6'>Hire me</button>
         </div>
         <div>

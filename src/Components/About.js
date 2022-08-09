@@ -15,12 +15,7 @@ export default function About() {
                 </div>
                 <p className='text-white text-3xl font-semibold mt-4'>I'm here</p>
                 <p className='text-white text-3xl font-semibold mb-4'>to help your next project</p>
-                <div className='text-[#808cac] space-y-1 mt-4 mb-4' >
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet culpa nobis corporis</p>
-                    <p>officiis, numquam cupiditate, enim expedita eveniet dolorum, aliquid nesciunt sapiente</p>
-                    <p>illo voluptatum! Dolores fuga mollitia atque, placeat minima quibusdam accusantium!</p>
-                    <p>Veniam, non distinctio dolorem rerum laboriosam deleniti.</p>
-                </div>
+                
                 <div className='flex space-x-6 pt-6'>
                     <div className='font-semibold text-sm  text-white'>
                         <div className='flex space-x-2 mb-2'>
