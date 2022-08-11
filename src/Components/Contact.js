@@ -58,7 +58,7 @@ export default function Contact() {
                 <input    className='bg-[#171e39] xl:w-[400px] lg:w-[300px] w-[500px] py-4 rounded text-[#808cac] px-4 text-sm' placeholder='Your name' />
                 <input    className='bg-[#171e39] xl:w-[400px] lg:w-[300px] w-[500px] py-4 rounded text-[#808cac] px-4 text-sm' placeholder='Email Address' />
                 <textarea className='bg-[#171e39] xl:w-[400px] lg:w-[300px] w-[500px] py-4 pb-16 rounded text-[#808cac] px-4 text-sm' placeholder='Message'></textarea>
-                <button   className='w-28 border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 mt-6'>Send</button>
+                <button   className='w-28 border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 mt-6 hover:bg-[#00c66c] hover:text-white'>Send</button>
             </div>
         </div>
     )

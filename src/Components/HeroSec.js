@@ -14,7 +14,7 @@ export default function HeroSec() {
             <p className='text-lg xl:text-base text-[#808cac] pb-4'>React Developer</p>
             <p className='text-lg xl:text-base text-[#808cac]'>I am passionate about taking risks and solving them by Communicating & Sharing</p>
             <p className='text-lg xl:text-base text-[#808cac]'>experience and knowledge</p>
-            <button className='w-32 border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 mt-6'>Hire me</button>
+            <button className='w-32 border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 mt-6 hover:bg-[#00c66c] hover:text-white'>Hire me</button>
         </div>
         <div>
             <img src={Hero} className='w-[450px] rounded-tl-[60px] xl:w-[350px] md:w-[250px]'/>

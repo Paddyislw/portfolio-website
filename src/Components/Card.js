@@ -14,8 +14,8 @@ export default function Card(props) {
             </div>
             <img src={props.img} className='w-[350px] lg:w-[280px] mb-8' />
             <div className='flex justify-between w-[330px] lg:w-[280px] mb-4'>
-                <a href={props.href} target='_blank'><button className='w-20 text-sm border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 '>Launch</button></a>
-                <a href={props.href2} target='_blank'><button className='w-20 text-sm border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 '>GitHub</button></a>
+                <a href={props.href} target='_blank'><button className='w-20 text-sm border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 hover:bg-[#00c66c] hover:text-white'>Launch</button></a>
+                <a href={props.href2} target='_blank'><button className='w-20 text-sm border-[1px] border-[#00c66c] rounded text-[#00c66c] py-2 hover:bg-[#00c66c] hover:text-white'>GitHub</button></a>
             </div>
         </div>
     )
