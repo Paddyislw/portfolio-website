@@ -50,7 +50,7 @@ export default function () {
                     name='Education Platform Website'
                 />
                 <Card img={reddit}
-                    href='https://forreddit.netlify.app'
+                    href='https://paddy-and-p-nblt-reddit-lite.netlify.app/'
                     href2='https://github.com/P-NBLT/reddit-clone'
                     name='Reddit Clone'
                 />
