@@ -7,6 +7,7 @@ import { useInView } from 'react-intersection-observer'
 import education from '../Media/education.jpg'
 import reddit from '../Media/reddit.jpg'
 import portfolio from '../Media/portfolio.jpg'
+import blocto from '../Media/blocto.jpg'
 
 export default function () {
     const {ref,inView} = useInView({threshold:0.2})
@@ -53,6 +54,11 @@ export default function () {
                     href='https://paddy-and-p-nblt-reddit-lite.netlify.app/'
                     href2='https://github.com/P-NBLT/reddit-clone'
                     name='Reddit Clone'
+                />
+                 <Card img={blocto}
+                    href='https://forblocto.netlify.app/'
+                    href2='https://github.com/Paddyislw/blocto'
+                    name='Blochain Info Website'
                 />
                 <Card img={portfolio}
                     href='https://codewithpradyum.netlify.app'
